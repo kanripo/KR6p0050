@@ -1,0 +1,5 @@
+007-0275b00	T 007-0275b	buddhist/T-taisho/T47/02/T47-0275.png
+007-0275c00	T 007-0275c	buddhist/T-taisho/T47/02/T47-0275.png
+007-0276a00	T 007-0276a	buddhist/T-taisho/T47/02/T47-0276.png
+007-0276b00	T 007-0276b	buddhist/T-taisho/T47/02/T47-0276.png
+007-0276c00	T 007-0276c	buddhist/T-taisho/T47/02/T47-0276.png
